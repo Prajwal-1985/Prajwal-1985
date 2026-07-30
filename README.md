@@ -75,6 +75,12 @@ I'm a **Computer Science Engineering student** passionate about **Artificial Int
 | 💬 **FAQ ChatBot** | Intelligent chatbot developed using Python and NLP techniques to answer frequently asked questions efficiently. |
 | 🎵 **AI Music Generator** | AI-based music generation application developed using Python and deep learning concepts to generate original music. |
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prajwal-1985/Prajwal-1985/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="footer"/>
 </p>

@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, Full Stack Development, and Data Analytics**.
+I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building AI-powered applications, exploring new technologies, and continuously improving my programming skills through hands-on projects.
 
-- 🔭 Currently building AI, Machine Learning & Full Stack projects
-- 🌱 Exploring Deep Learning, Generative AI & Computer Vision
-- 💡 Passionate about solving real-world problems using AI
-- 🤝 Open to AI/ML, Software Development & Data Analytics internship opportunities
-- 🎯 Goal: Build AI-powered applications that create real-world impact
+- 🔭 Currently building AI and Machine Learning projects
+- 🌱 Learning Deep Learning, Generative AI & Computer Vision
+- 💻 Interested in Python, Java, React, and AI application development
+- 🤝 Open to AI/ML and Software Development Internship opportunities
+- 🎯 Goal: Build intelligent applications that solve real-world problems
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -47,23 +47,6 @@ I'm a **Computer Science Engineering student** passionate about **Artificial Int
 
 <h2 align="center">📫 Connect With Me</h2>
 
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajwal-1985&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<h2 align="center">⭐ Featured Projects</h2>
-
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Flashcards | AI-powered learning platform using Python and Flask with intelligent flashcard generation. |
-| 🚗 Smart Parking System | Full Stack web application built with React, Node.js, and MongoDB. |
-| 📊 E-Commerce Data Analysis | Data analysis project using Python, Pandas, NumPy, and Matplotlib. |
-| 💬 FAQ Chatbot | AI chatbot for answering frequently asked questions. |
-| 📰 News Headlines App | REST API project that displays live news headlines. |
-| 🎵 AI Music Generator | Machine Learning project for AI-generated music. |
-
 <p align="center">
   <a href="mailto:prajwalbadiger1985@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -77,6 +60,21 @@ I'm a **Computer Science Engineering student** passionate about **Artificial Int
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prajwal-1985&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<h2 align="center">⭐ Featured Projects</h2>
+
+| Project | Description |
+|---------|-------------|
+| 🌐 **Language Translator AI** | AI-powered language translation application built using Python and Flask that translates text between multiple languages. |
+| 💬 **FAQ ChatBot** | Intelligent chatbot developed using Python and NLP techniques to answer frequently asked questions efficiently. |
+| 🎵 **AI Music Generator** | AI-based music generation application developed using Python and deep learning concepts to generate original music. |
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="footer"/>
 </p>
